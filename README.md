@@ -2,13 +2,15 @@
 markdown のテストです。
 どうやら改行で \\<br /\\> してくれるのは、行頭が \\w じゃないとだめらしい。
 
-test
-テスト
-てすと
+test test
+テスト テスト
+てすと test
+test テスト
 
-    test
-    テスト
-    てすと
+    test test
+    テスト テスト
+    てすと test
+    test テスト
 
 
 
